@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 import logoImg from "../assets/logo.png";
 import gitImg from "../assets/git.png";
 import { Link } from "react-router";
 const Navbar = () => {
-    return (
+  return (
     <div className="navbar bg-base-100 shadow-sm ">
       <div className="navbar-start">
         <div className="dropdown">
@@ -32,7 +32,7 @@ const Navbar = () => {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/apps">Apps</Link>
+              <Link to="/all-apps">Apps</Link>
             </li>
             <li>
               <Link>Installation</Link>
@@ -52,7 +52,7 @@ const Navbar = () => {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/apps">Apps</Link>
+            <Link to="/all-apps">Apps</Link>
           </li>
           <li>
             <Link>Installation</Link>
@@ -66,7 +66,7 @@ const Navbar = () => {
         </button>
       </div>
     </div>
-    );
+  );
 };
 
 export default Navbar;
