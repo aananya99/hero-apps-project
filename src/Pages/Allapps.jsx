@@ -16,6 +16,7 @@ const AllApps = () => {
 
       <div className="flex justify-between gap-2 items-center">
         <h3 className="text-lg font-semibold">({apps.length}) Apps Found</h3>
+
         <label className="input">
           <svg
             className="h-[1em] opacity-50"
@@ -36,6 +37,7 @@ const AllApps = () => {
           <input type="search" required placeholder="Search Apps" />
         </label>
       </div>
+
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 p-3 my-10">
         {apps.map((app) => (
           <Appcard key={app.id} app={app}></Appcard>

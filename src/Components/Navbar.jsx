@@ -1,8 +1,15 @@
 import React from "react";
 import logoImg from "../assets/logo.png";
 import gitImg from "../assets/git.png";
-import { Link } from "react-router";
+import { Link, NavLink } from "react-router";
 const Navbar = () => {
+  const links = (
+    <>
+      <NavLink to="/">Home</NavLink>
+      <NavLink to="/all-apps">Apps</NavLink>
+      
+    </>
+  );
   return (
     <div className="navbar bg-base-100 shadow-sm ">
       <div className="navbar-start">
@@ -28,15 +35,7 @@ const Navbar = () => {
             tabIndex={0}
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
           >
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/all-apps">Apps</Link>
-            </li>
-            <li>
-              <Link>Installation</Link>
-            </li>
+            <div className="flex flex-col gap-1">{links}</div>
           </ul>
         </div>
         <div className="flex justify-between items-center gap-1">
@@ -48,15 +47,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/all-apps">Apps</Link>
-          </li>
-          <li>
-            <Link>Installation</Link>
-          </li>
+          <div className="flex justify-between gap-1">{links}</div>
         </ul>
       </div>
       <div className="navbar-end">

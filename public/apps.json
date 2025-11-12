@@ -4,9 +4,9 @@
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 1,
-    "description": "Connect with friends, share updates, and explore communities worldwide.",
+    "description": "Facebook lets you stay connected with friends, family, and communities across the world. You can share your moments through posts, photos, and videos while discovering new interests in groups and pages. It’s not just about socializing—Facebook also helps small businesses grow, promotes events, and provides access to a massive digital marketplace. With an easy-to-use interface and powerful privacy controls, it continues to be the go-to platform for meaningful connections.",
     "size": 110,
-    "reviews": 13500230,
+    "reviews": "13.5M",
     "ratingAvg": 4.2,
     "downloads": "5B",
     "ratings": [
@@ -22,9 +22,9 @@
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 2,
-    "description": "Free, secure messaging and calling with friends and family worldwide.",
+    "description": "WhatsApp offers free, secure, and instant communication anywhere in the world. Whether you’re texting, making video calls, or sharing documents, WhatsApp ensures privacy with end-to-end encryption. Group chats and broadcast lists make connecting with multiple people effortless. It’s lightweight, reliable even on slow networks, and keeps you close to loved ones with voice notes, status updates, and instant media sharing.",
     "size": 70,
-    "reviews": 11000312,
+    "reviews": "11M",
     "ratingAvg": 4.5,
     "downloads": "5B",
     "ratings": [
@@ -40,9 +40,9 @@
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 3,
-    "description": "Share photos, reels, and stories with a vibrant global community.",
+    "description": "Instagram is the world’s leading photo and video sharing platform that lets you express yourself visually. Capture your best moments, explore inspiring content, and connect with creators you love. With reels, stories, and messages, it’s easy to stay updated and entertained. Whether you’re building a brand or sharing your daily life, Instagram brings creativity and connection together in one stylish app.",
     "size": 130,
-    "reviews": 14500654,
+    "reviews": "14.5M",
     "ratingAvg": 4.3,
     "downloads": "5B",
     "ratings": [
@@ -58,9 +58,9 @@
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 4,
-    "description": "Watch, upload, and share videos across every topic imaginable.",
+    "description": "YouTube is your go-to destination for videos on every topic imaginable—from tutorials to entertainment. Watch, upload, and share content easily while subscribing to your favorite creators. With smart recommendations, offline playback, and live streaming, YouTube brings the world’s most diverse video community right to your screen. Whether you’re learning, laughing, or relaxing, it’s the ultimate visual experience.",
     "size": 160,
-    "reviews": 25000999,
+    "reviews": "25M",
     "ratingAvg": 4.5,
     "downloads": "10B",
     "ratings": [
@@ -76,9 +76,9 @@
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 5,
-    "description": "Create and watch short videos with music, filters, and viral trends.",
+    "description": "TikTok turns creativity into entertainment with its short-form video platform. Create, edit, and share engaging clips with music, filters, and special effects. The algorithm curates a personalized feed that matches your interests, keeping you hooked for hours. From viral dances to educational snippets, TikTok is where culture, humor, and trends are born every day.",
     "size": 140,
-    "reviews": 22000412,
+    "reviews": "22M",
     "ratingAvg": 4.4,
     "downloads": "5B",
     "ratings": [
@@ -94,9 +94,9 @@
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 6,
-    "description": "Join global conversations and stay updated with trending topics.",
+    "description": "X, formerly known as Twitter, is the digital pulse of the world. Follow breaking news, trending discussions, and influential voices in real-time. From memes to politics, it’s where ideas spread fast. With communities, Spaces, and premium features, X empowers users to engage, debate, and share perspectives freely across global conversations.",
     "size": 95,
-    "reviews": 15000321,
+    "reviews": "15M",
     "ratingAvg": 4.1,
     "downloads": "1B",
     "ratings": [
@@ -112,9 +112,9 @@
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 7,
-    "description": "Share moments with friends instantly and explore stories around you.",
+    "description": "Snapchat lets you capture quick moments and share them instantly with friends. Its disappearing messages and playful filters make every interaction fun and spontaneous. Discover stories, news, and content from around the world while maintaining your streaks. With a focus on privacy and creativity, Snapchat brings authenticity to social sharing.",
     "size": 125,
-    "reviews": 11000900,
+    "reviews": "11M",
     "ratingAvg": 4.2,
     "downloads": "1B",
     "ratings": [
@@ -130,9 +130,9 @@
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 8,
-    "description": "Stream millions of songs, albums, and podcasts for free or premium.",
+    "description": "Spotify gives you unlimited access to music, podcasts, and playlists from artists across the globe. Discover new tracks, create your own playlists, and enjoy personalized recommendations powered by smart algorithms. Whether you’re relaxing, working out, or commuting, Spotify sets the perfect soundtrack for every moment.",
     "size": 90,
-    "reviews": 19000543,
+    "reviews": "19M",
     "ratingAvg": 4.7,
     "downloads": "1B",
     "ratings": [
@@ -144,13 +144,13 @@
     ]
   },
   {
-    "image": "https://static.vecteezy.com/system/resources/thumbnails/017/396/804/small_2x/netflix-mobile-application-logo-free-png.png",
+    "image": "",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 9,
-    "description": "Watch unlimited movies and TV shows anytime, anywhere.",
+    "description": "Watch unlimited movies and TV shows anytime, anywhere with Netflix. Enjoy original series, documentaries, and a huge library of films. Download content for offline viewing, set up profiles, and receive personalized recommendations. Netflix makes entertainment flexible, personalized, and easy to access across devices.",
     "size": 150,
-    "reviews": 21000888,
+    "reviews": "21M",
     "ratingAvg": 4.5,
     "downloads": "1B",
     "ratings": [
@@ -166,9 +166,9 @@
     "title": "LinkedIn",
     "companyName": "Microsoft Corporation",
     "id": 10,
-    "description": "Network with professionals, find jobs, and grow your career.",
+    "description": "Network with professionals, find jobs, and grow your career with LinkedIn. Connect with colleagues, join industry groups, and share insights. LinkedIn’s tools help you showcase skills, get recommendations, and stay updated on trends in your field. It’s a professional hub for learning, networking, and career growth.",
     "size": 85,
-    "reviews": 9032111,
+    "reviews": "9M",
     "ratingAvg": 4.4,
     "downloads": "1B",
     "ratings": [
@@ -184,9 +184,9 @@
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 11,
-    "description": "Fast, secure, and cloud-based messaging app with unlimited file sharing.",
+    "description": "Fast, secure, and cloud-based messaging app with unlimited file sharing. Telegram keeps your chats private with end-to-end encryption, supports large group chats, and allows easy sharing of media and documents. Bots and channels expand functionality, making communication efficient and versatile.",
     "size": 60,
-    "reviews": 8042211,
+    "reviews": "8M",
     "ratingAvg": 4.6,
     "downloads": "1B",
     "ratings": [
@@ -202,161 +202,161 @@
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 12,
-    "description": "Email made easy, efficient, and secure with Google’s Gmail service.",
+    "description": "Email made easy, efficient, and secure with Google’s Gmail service. Send, receive, and organize emails with powerful search, labels, and spam filtering. Gmail integrates seamlessly with Google Workspace, providing productivity tools and smart features for personal and professional use.",
     "size": 90,
-    "reviews": 12500432,
+    "reviews": "12.5M",
     "ratingAvg": 4.5,
     "downloads": "10B",
     "ratings": [
       { "name": "1 star", "count": 400000 },
       { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 2500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3200000 },
       { "name": "5 star", "count": 7800000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png",
-    "title": "Google Maps",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Google_Play_Store_icon.svg/2048px-Google_Play_Store_icon.svg.png",
+    "title": "Google Play Store",
     "companyName": "Google LLC",
     "id": 13,
-    "description": "Navigate, explore, and find your way with real-time GPS and traffic updates.",
-    "size": 105,
-    "reviews": 11000500,
-    "ratingAvg": 4.7,
+    "description": "The official store to discover, download, and update apps on Android devices. Google Play Store provides millions of apps, games, and digital content while offering reviews, ratings, and personalized recommendations.",
+    "size": 80,
+    "reviews": "10M",
+    "ratingAvg": 4.4,
     "downloads": "10B",
     "ratings": [
-      { "name": "1 star", "count": 230000 },
-      { "name": "2 star", "count": 310000 },
-      { "name": "3 star", "count": 700000 },
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 800000 },
       { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 7200000 }
+      { "name": "5 star", "count": 7300000 }
     ]
   },
   {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0a3VI0de_zRtDfq-daCXM4ciIY_Yt4csrg&s",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Maps_icon_%282020%29.svg/2048px-Google_Maps_icon_%282020%29.svg.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
     "id": 14,
-    "description": "Video meetings, chat, and collaboration made simple and reliable.",
-    "size": 75,
-    "reviews": 9054421,
-    "ratingAvg": 4.4,
-    "downloads": "1B",
-    "ratings": [
-      { "name": "1 star", "count": 280000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 820000 },
-      { "name": "4 star", "count": 2300000 },
-      { "name": "5 star", "count": 5254421 }
-    ]
-  },
-  {
-    "image": "https://static.vecteezy.com/system/resources/previews/042/148/616/non_2x/pinterest-logo-pinterest-social-media-icon-free-png.png",
-    "title": "Pinterest",
-    "companyName": "Pinterest Inc.",
-    "id": 15,
-    "description": "Discover creative ideas for fashion, home décor, recipes, and more.",
-    "size": 80,
-    "reviews": 6022112,
-    "ratingAvg": 4.6,
-    "downloads": "1B",
-    "ratings": [
-      { "name": "1 star", "count": 170000 },
-      { "name": "2 star", "count": 250000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 1500000 },
-      { "name": "5 star", "count": 3700000 }
-    ]
-  },
-  {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ku2Jno-Ft-OEVX5Q_iQt-MjWXoIr8bvyaQ&s",
-    "title": "Uber Eats",
-    "companyName": "Uber Technologies, Inc.",
-    "id": 16,
-    "description": "Order food and drinks from local restaurants and get it delivered fast.",
-    "size": 95,
-    "reviews": 7522112,
-    "ratingAvg": 4.3,
-    "downloads": "500M",
-    "ratings": [
-      { "name": "1 star", "count": 210000 },
-      { "name": "2 star", "count": 350000 },
-      { "name": "3 star", "count": 700000 },
-      { "name": "4 star", "count": 2300000 },
-      { "name": "5 star", "count": 4000000 }
-    ]
-  },
-  {
-    "image": "https://www.seohorizon.com/wp-content/uploads/image-31-1024x1024.jpeg.webp",
-    "title": "Amazon Shopping",
-    "companyName": "Amazon Mobile LLC",
-    "id": 17,
-    "description": "Shop millions of products, track orders, and enjoy easy returns.",
+    "description": "Navigate, explore, and discover with Google Maps. Find directions, traffic updates, nearby places, and local businesses. Save favorite locations, share locations with friends, and use offline maps for convenient travel anywhere.",
     "size": 120,
-    "reviews": 15000400,
-    "ratingAvg": 4.5,
-    "downloads": "1B",
-    "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 900000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 10200000 }
-    ]
-  },
-  {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78ygB9DVM_GmiHto6DztS2QOWIpIkicNUlw&s",
-    "title": "Reddit",
-    "companyName": "Reddit Inc.",
-    "id": 18,
-    "description": "Dive into communities and discover endless discussions and memes.",
-    "size": 92,
-    "reviews": 5500221,
-    "ratingAvg": 4.3,
-    "downloads": "500M",
-    "ratings": [
-      { "name": "1 star", "count": 180000 },
-      { "name": "2 star", "count": 250000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 1700000 },
-      { "name": "5 star", "count": 2950221 }
-    ]
-  },
-  {
-    "image": "https://www.svgrepo.com/show/353655/discord-icon.svg",
-    "title": "Discord",
-    "companyName": "Discord Inc.",
-    "id": 19,
-    "description": "Voice, video, and text chat for gamers and communities worldwide.",
-    "size": 115,
-    "reviews": 6500333,
-    "ratingAvg": 4.7,
-    "downloads": "500M",
-    "ratings": [
-      { "name": "1 star", "count": 140000 },
-      { "name": "2 star", "count": 210000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 1800000 },
-      { "name": "5 star", "count": 3950333 }
-    ]
-  },
-  {
-    "image": "https://tinder.com/static/tinder.png",
-    "title": "Tinder",
-    "companyName": "Match Group",
-    "id": 20,
-    "description": "Swipe, match, and meet people nearby with the world’s #1 dating app.",
-    "size": 85,
-    "reviews": 10006500,
-    "ratingAvg": 4.2,
-    "downloads": "500M",
+    "reviews": "14M",
+    "ratingAvg": 4.6,
+    "downloads": "10B",
     "ratings": [
       { "name": "1 star", "count": 350000 },
       { "name": "2 star", "count": 550000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 2400000 },
-      { "name": "5 star", "count": 5706500 }
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 8400000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png",
+    "title": "Adobe Photoshop",
+    "companyName": "Adobe Inc.",
+    "id": 15,
+    "description": "Powerful photo editing and graphic design software. Adobe Photoshop allows professional and amateur users to create, enhance, and manipulate images with advanced tools, layers, and effects. Perfect for creative projects across digital and print media.",
+    "size": 200,
+    "reviews": "5M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Adobe_Acrobat_DC_icon.svg/1024px-Adobe_Acrobat_DC_icon.svg.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "id": 16,
+    "description": "View, edit, and annotate PDF documents with Adobe Acrobat Reader. Create PDFs, fill forms, sign documents digitally, and collaborate with others securely. It’s the standard tool for professional and personal document management.",
+    "size": 150,
+    "reviews": "7M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 140000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dropbox_icon_2017.svg/1024px-Dropbox_icon_2017.svg.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 17,
+    "description": "Cloud storage solution to save, sync, and share files from any device. Dropbox provides file backup, team collaboration, and easy access to documents from anywhere. Integrates with productivity tools and apps for seamless workflows.",
+    "size": 95,
+    "reviews": "6M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 4800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Google_Chrome_icon_%282011%29.png/600px-Google_Chrome_icon_%282011%29.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Fast, secure, and user-friendly web browser. Google Chrome provides tabbed browsing, extensions, synchronization across devices, and smart security features to make web surfing smooth and safe.",
+    "size": 100,
+    "reviews": "18M",
+    "ratingAvg": 4.6,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 750000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 11350000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VS_Code_icon.svg/2048px-VS_Code_icon.svg.png",
+    "title": "Visual Studio Code",
+    "companyName": "Microsoft Corporation",
+    "id": 19,
+    "description": "Lightweight and powerful code editor for developers. VS Code supports debugging, extensions, Git integration, and customizable workspaces. Ideal for writing code in multiple languages with efficiency and flexibility.",
+    "size": 120,
+    "reviews": "8.5M",
+    "ratingAvg": 4.8,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Canva_logo.png/480px-Canva_logo.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 20,
+    "description": "Easy-to-use graphic design platform for creating social media posts, presentations, posters, and more. Canva offers templates, design tools, and collaboration features for personal and professional projects.",
+    "size": 85,
+    "reviews": "7M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 140000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 5000000 }
     ]
   }
 ]
