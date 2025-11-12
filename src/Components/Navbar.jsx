@@ -7,7 +7,6 @@ const Navbar = () => {
     <>
       <NavLink to="/">Home</NavLink>
       <NavLink to="/all-apps">Apps</NavLink>
-      
     </>
   );
   return (
@@ -51,10 +50,12 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <button className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white">
-          <img src={gitImg} alt="" />
-          Contribute
-        </button>
+        <Link to="https://github.com/aananya99">
+          <button className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white">
+            <img src={gitImg} alt="" />
+            Contribute
+          </button>
+        </Link>
       </div>
     </div>
   );

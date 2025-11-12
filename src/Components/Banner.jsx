@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react";
 import playImg from "../assets/playstore.png";
 import appImg from "../assets/appStore.jfif";
 import bannerImg from "../assets/hero.png";
+import { Link } from "react-router";
 const Banner = () => {
-    return (
-          <div className="flex flex-col justify-center items-center space-y-4">
+  return (
+    <div className="flex flex-col justify-center items-center space-y-4">
       <h2 className="text-5xl font-bold text-center">
         We Build <br />
         <span className="text-transparent bg-clip-text bg-linear-to-r from-[#632EE3] to-[#9F62F2]">
@@ -18,21 +19,25 @@ const Banner = () => {
         digital experiences that truly make an impact.
       </p>
       <div className="flex gap-2">
-        <button className="btn">
+        <Link to="https://play.google.com/store/games?device=windows">
           {" "}
-          <img className="h-[30px]" src={playImg} alt="" /> Google Play
-        </button>
+          <button className="btn">
+            {" "}
+            <img className="h-[30px]" src={playImg} alt="" /> Google Play
+          </button>
+        </Link>
 
-        <button className="btn">
-          <img className="h-[30px]" src={appImg} alt="" />
-          App Store{" "}
-        </button>
+        <Link to="https://www.apple.com/app-store/">
+          {" "}
+          <button className="btn">
+            <img className="h-[30px]" src={appImg} alt="" />
+            App Store{" "}
+          </button>
+        </Link>
       </div>
       <img src={bannerImg} alt="" />
-
-
     </div>
-    );
+  );
 };
 
 export default Banner;
