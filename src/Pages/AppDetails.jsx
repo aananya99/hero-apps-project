@@ -8,6 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import toast from "react-hot-toast";
 
+
 const AppDetails = () => {
   const { id } = useParams();
   const appId = parseInt(id);
@@ -106,10 +107,7 @@ const AppDetails = () => {
       </div>
 
       {/* ratings Section */}
-      {/*-------------- pore korbo-------------- */}
-      <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100">
-        <h2 className="text-2xl font-semibold mb-3 text-gray-800">Ratings</h2>
-      </div>
+
 
       {/* Description Section */}
       <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100">

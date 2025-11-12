@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="flex justify-between items-center gap-1">
         <img className="h-[30px]" src={logoImg} alt="" />
         <p className="text-transparent bg-clip-text bg-linear-to-r from-[#632EE3] to-[#9F62F2] font-bold underline">
-          HERO.IO
+           APP HIVE
         </p>
       </div>
       <nav>
@@ -17,7 +17,7 @@ const Footer = () => {
         <a className="link link-hover">Press kit</a>
       </nav>
       <nav>
-        <h6 className="footer-title">Social</h6>
+        <h6 className="text-transparent bg-clip-text bg-linear-to-r from-[#632EE3] to-[#9F62F2] font-bold underline text-lg">Social</h6>
         <div className="grid grid-flow-col gap-4">
           <a>
             <svg

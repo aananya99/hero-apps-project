@@ -34,19 +34,19 @@ const Navbar = () => {
             tabIndex={0}
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
           >
-            <div className="flex flex-col gap-1">{links}</div>
+            <div className="flex flex-col gap-2">{links}</div>
           </ul>
         </div>
         <div className="flex justify-between items-center gap-1">
           <img className="h-[30px]" src={logoImg} alt="" />
           <p className="text-transparent bg-clip-text bg-linear-to-r from-[#632EE3] to-[#9F62F2] font-bold underline">
-            HERO.IO
+            APP HIVE
           </p>
         </div>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
-          <div className="flex justify-between gap-1">{links}</div>
+          <div className="flex justify-between gap-2 text-gray-500 font-bold">{links}</div>
         </ul>
       </div>
       <div className="navbar-end">
